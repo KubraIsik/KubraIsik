@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ###
 
 <!--<h2 align="left">About me</h2>-->
-<p align="center">I am Computer Engineer and Software QA & Test Engineer. </p>
+<p align="center">I am Computer Engineer who is following opportunities to become qualified Software QA & Test Engineer. </p>
 
 ###
 
@@ -71,26 +71,18 @@ Here are some ideas to get you started:
 </div>
 
 ### 
-<div align="center"> 
+<div align="center" style="text-align: center;"> 
   <h2>📝My Latest Blog Post in <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"  alt="medium logo" /></h2>
-  </div>
-<div align="right">  
-<table style="margin: auto;" width="100% border-collapse: collapse; margin: auto;  border: none;">
-  <tr>
-    <td align="center" style="text-align: center; border: none;">
-      <a href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0">
-        <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"">
+        <a href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"> <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0" ">
       </a>
-    </td>
-  </tr>
-</table>
+</div>
 
-
-
+### 
 
 <p align="center">
   📫 How to reach me: &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kubranazlihanisik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:kuisik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kuisik@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kuisik@gmail.com" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kubranazlihanisik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </p>
     
