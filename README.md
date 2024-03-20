@@ -73,16 +73,16 @@ Here are some ideas to get you started:
 ### 
 <div align="center" style="text-align: center;"> 
   <h2>📝My Latest Blog Post in <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"  alt="medium logo" /></h2>
-        <a href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"> <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0" ">
-      </a>
-</div>
+      <p  align="center">  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"> <img width="88%" align="right" src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0" ">
+      </a></p></div>
 
 ### 
-
-<p align="center">
+&nbsp;&nbsp;
+<br clear="right"/>
+<div align="center">
   📫 How to reach me: &nbsp;&nbsp;
   <a href="mailto:kuisik@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kuisik@gmail.com" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kubranazlihanisik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-</p>
+</div>
     
