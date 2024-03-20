@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <h2 align="center">📝My Latest Blog Post in <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"  alt="medium logo" /></h2>
  
 <div align="center"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"><img width="75%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0"></a>
 </div>
  
 <p align="center">
