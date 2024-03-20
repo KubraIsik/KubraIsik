@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 ### 
 <h2 align="center">📝My Latest Blog Post in <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"  alt="medium logo" /></h2>
  
-<p align="center">
+<div align="center"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kuisik/0" alt="Recent Article 0"></a>
-</p>
-
+</div>
+ 
 <p align="center">
   📫 How to reach me: &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kubranazlihanisik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
