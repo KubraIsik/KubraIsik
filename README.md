@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ###
 
 <!--<p align="center"> <ul><il>🌱 I'm currently learning about test automation technologies.</i><br> <il></il> </il></ul></p>-->
-<p align="center"> 🌱 I'm currently learning about test automation technologies.<br></p>
+<p align="center"> 🌱 I am learning and developing my skills every day.<br></p>
 
 ###
 
