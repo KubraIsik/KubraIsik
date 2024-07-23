@@ -81,7 +81,9 @@ Here are some ideas to get you started:
 <br clear="right"/>
 <div align="center">
   📫 How to reach me: &nbsp;&nbsp;
-  <a href="mailto:kuisik@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kuisik@gmail.com" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kuisik@gmail.com">   kuisik@gmail.com</a>
+    <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kuisik@gmail.com" /></a>--> 
+    &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kubranazlihanisik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
